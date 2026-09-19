@@ -1,4 +1,4 @@
-Date	Time	Booking_ID	Booking_Status	Customer_ID	Vehicle_Type	Pickup_Location	Drop_Location	V_TAT	C_TAT	Canceled_Rides_by_Customer	Canceled_Rides_by_Driver	Incomplete_Rides
+DateTime	Booking_ID	Booking_Status	Customer_ID	Vehicle_Type	Pickup_Location	Drop_Location	V_TAT	C_TAT	Canceled_Rides_by_Customer	Canceled_Rides_by_Driver	Incomplete_Rides
 2024-07-26 14:00:00	14:00:00	CNR7153255142	Canceled by Driver	CID713523	Prime Sedan	Tumkur Road	RT Nagar	null	null	null	Personal & Car related issue	null
 2024-07-25 22:20:00	22:20:00	CNR2940424040	Success	CID225428	Bike	Magadi Road	Varthur	203	30	null	null	No
 2024-07-30 19:59:00	19:59:00	CNR2982357879	Success	CID270156	Prime SUV	Sahakar Nagar	Varthur	238	130	null	null	No
