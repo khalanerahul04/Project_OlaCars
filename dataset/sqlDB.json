@@ -1,0 +1,16 @@
+{
+	"name": "sqlDB",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_sqlDB",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "ola_cars_bookings"
+		}
+	}
+}
