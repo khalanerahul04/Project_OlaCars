@@ -16,7 +16,7 @@
 			"location": {
 				"type": "HttpServerLocation",
 				"relativeUrl": {
-					"value": "khalanerahul04/Project_OlaCars/refs/heads/main/\n @{dataset().load_flag}",
+					"value": "khalanerahul04/Project_OlaCars/refs/heads/main/@{dataset().load_flag}",
 					"type": "Expression"
 				}
 			},

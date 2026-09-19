@@ -10,7 +10,7 @@
 		"schema": [],
 		"typeProperties": {
 			"schema": "dbo",
-			"table": "source_cars_data"
+			"table": "ola_cars_bookings"
 		}
 	}
 }
