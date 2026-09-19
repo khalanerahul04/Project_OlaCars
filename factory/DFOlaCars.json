@@ -1,0 +1,15 @@
+{
+	"name": "DFOlaCars",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "94b0b7c0-f83d-45aa-baae-c010faf7b6d3",
+		"tenantId": "f2b2a460-5eef-4b3b-a78c-95222eadbac5"
+	}
+}
