@@ -24,4 +24,12 @@ linked service = http/base URL/relative URL
 <img width="1539" height="562" alt="image" src="https://github.com/user-attachments/assets/2990d1e9-b356-47da-b8a1-c042fc11aff0" />
 
 
+incremental pipeline to data lake runs successful
+
+
+<img width="1822" height="755" alt="image" src="https://github.com/user-attachments/assets/52d7b1f3-d599-4416-838e-8616702a1edf" />
+
+
+
+
 
