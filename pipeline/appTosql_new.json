@@ -302,7 +302,10 @@
 				"outputs": [
 					{
 						"referenceName": "sqlDB",
-						"type": "DatasetReference"
+						"type": "DatasetReference",
+						"parameters": {
+							"table_name": "ola_cars_bookigs"
+						}
 					}
 				]
 			}
